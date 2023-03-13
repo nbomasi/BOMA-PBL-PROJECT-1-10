@@ -5,42 +5,42 @@ These Project introduces us to web application developement and introduction to 
 The Projects are outline below and the implementation *of these projects are detailed in this repository.
 
 
-## PROJECT 1: LAMP STACK IMPLEMENTATION
+## PROJECT 1: Lamp Stack Implementation
 
 web stack implementation (lamp stack) in aws
-step 1 — installing apache and updating the firewall
-step 2 — installing mysql
-step 3 — installing php
-step 4 — creating a virtual host for your website using apache
-step 5 — enable php on the website
+* step 1 — installing apache and updating the firewall
+* step 2 — installing mysql
+* step 3 — installing php
+* step 4 — creating a virtual host for your website using apache
+* step 5 — enable php on the website
 
-## PROJECT 2: LEMP STACK IMPLEMENTATION
+## PROJECT 2: Lemp Stack Implementation
 
 web stack implementation (lemp stack)
-step 1 – installing the nginx web server
-step 2 — installing mysql
-step 3 – installing php
-step 4 — configuring nginx to use php processor
-step 5 – testing php with nginx
-step 6 – retrieving data from mysql database with php (continued)
+* step 1 – installing the nginx web server
+* step 2 — installing mysql
+* step 3 – installing php
+* step 4 — configuring nginx to use php processor
+* step 5 – testing php with nginx
+* step 6 – retrieving data from mysql database with php (continued)
 
-## PROJECT 3: MERN STACK IMPLEMENTATION
+## PROJECT 3: Mern Stack Implementation
 
-simple to-do application on mern web stack
-step 1 – backend configuration
-install expressjs
-models
-mongodb database
-step 2 – frontend creation
-frontend creation (continued)
+* simple to-do application on mern web stack
+* step 1 – backend configuration
+* install expressjs
+* models
+* mongodb database
+* step 2 – frontend creation
+* frontend creation (continued)
 
-## PROJECT 4: MEAN STACK IMPLEMENTATION
+## PROJECT 4: Mean Stack Implementation
 
-mean stack deployment to ubuntu in aws
-install express and set up routes to the server
+* mean stack deployment to ubuntu in aws
+* install express and set up routes to the server
 
-Aux Project 1 (Shell Scripting)
-aux project 1: shell scripting
+**Aux Project 1 (Shell Scripting)**
+* aux project 1: shell scripting
 
 ## PROJECT 5: Client/Server Architecture Using A MySQL Relational Database Management System
 
