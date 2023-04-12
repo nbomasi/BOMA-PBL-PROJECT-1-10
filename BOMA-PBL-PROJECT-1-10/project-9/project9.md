@@ -91,6 +91,10 @@ Then you will be asked which plugings to install – choose suggested plugins.
 Once plugins installation is done – create an admin user and you will get your Jenkins server address.
 
 ![jenkins complete](./Images/welcome%20to%20jenkins.PNG)
+    
+* **NOTE:** in case jenkins fails to install, then run the following command and visit [jenkins website](https://www.jenkins.io/doc/book/installing/linux/#debianubuntu) for installation guide 
+    
+ ```sudo apt install ca-certificates```
 
 
 **The installation is completed!**
