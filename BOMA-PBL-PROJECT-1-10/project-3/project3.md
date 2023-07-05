@@ -749,6 +749,7 @@ margin-top: 0;
 Exit
 ```
 
+In the above code, please REMOVE EXIT, else the program will not run
 
 In the src directory open the index.css
 
