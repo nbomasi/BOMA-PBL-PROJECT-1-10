@@ -295,7 +295,8 @@ sudo mysql -u admin -p -h <DB-Server-Private-IP-address>
 
 Verify if you can successfully execute SHOW DATABASES; command and see a list of existing databases.
 
-Change permissions and configuration so Apache could use WordPress:
+Change permissions and configuration so Apache could use WordPress: This is done by adding db credentials to the following file sudo 
+```vi /var/www/html/wordpress/wp-config.php```
 
 Enable TCP port 80 in Inbound Rules configuration for your Web Server EC2 (enable from everywhere 0.0.0.0/0 or from your workstation’s IP)
 
