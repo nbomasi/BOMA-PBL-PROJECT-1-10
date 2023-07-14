@@ -122,6 +122,8 @@ Visit your domain account > domain manager>nameserver, edit it and paste the lin
 Edit /etc/nginx/nginx.conf and replace DOMAIN.COM with the domain name bomatooling.xyz www.bomatooling.xyz created and restart nginx to apply the new configurations.
 LB ends here.
 
+Link to confirm dns: [here](https://dnschecker.org/)
+
 NOTE: NGINX up and running, Nginx is already performing its work of load balancing. However subsequent step is just to enhance the entire LB and introduce more sucurity into the system(SSL/TLS)
 
 
