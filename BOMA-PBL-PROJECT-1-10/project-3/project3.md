@@ -397,6 +397,8 @@ Before testing the react app, there are some dependencies that need to be instal
 
 ![Add Proxy](./Images/add%20proxy.png)
 
+**Note:** Rememember to replace the "." in front of 5000 with ","
+
 
 Now, ensure you are inside the Todo directory, and simply do:
 
